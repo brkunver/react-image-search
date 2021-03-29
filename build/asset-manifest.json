@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-image-search/build/static/css/main.a5b0cad4.chunk.css",
+    "main.js": "/react-image-search/build/static/js/main.ccf0e88a.chunk.js",
+    "main.js.map": "/react-image-search/build/static/js/main.ccf0e88a.chunk.js.map",
+    "runtime-main.js": "/react-image-search/build/static/js/runtime-main.3f82007d.js",
+    "runtime-main.js.map": "/react-image-search/build/static/js/runtime-main.3f82007d.js.map",
+    "static/js/2.12586b67.chunk.js": "/react-image-search/build/static/js/2.12586b67.chunk.js",
+    "static/js/2.12586b67.chunk.js.map": "/react-image-search/build/static/js/2.12586b67.chunk.js.map",
+    "index.html": "/react-image-search/build/index.html",
+    "static/css/main.a5b0cad4.chunk.css.map": "/react-image-search/build/static/css/main.a5b0cad4.chunk.css.map",
+    "static/js/2.12586b67.chunk.js.LICENSE.txt": "/react-image-search/build/static/js/2.12586b67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f82007d.js",
+    "static/js/2.12586b67.chunk.js",
+    "static/css/main.a5b0cad4.chunk.css",
+    "static/js/main.ccf0e88a.chunk.js"
+  ]
+}

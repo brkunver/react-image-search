@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/searchbar.css","webpack://src/styles/imagecard.css"],"names":[],"mappings":"AAAA,WACE,eACF,CAEA,cACE,iBACF,CCNA,WACE,eACF","file":"main.a5b0cad4.chunk.css","sourcesContent":[".SearchBar{\r\n  margin-top: 32px;\r\n}\r\n\r\n.SearchBar h1{\r\n  text-align: center;\r\n}",".ImageCard {\r\n  margin-top: 24px;\r\n}"]}
